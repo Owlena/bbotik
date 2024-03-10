@@ -86,6 +86,6 @@ async def on_message(message):
         await message.channel.send(message.content)
 
 
-bot.run('MTIwODY5MTU5MjYzOTI4MzIwMA.GeW5uI.clY4FZwxJGzTf5GmmHuUHOdEBiu7-HoS7Jr5s8')
+bot.run('')
 
 
